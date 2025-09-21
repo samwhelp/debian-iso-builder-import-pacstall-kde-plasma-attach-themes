@@ -132,5 +132,5 @@ make build
 | ---- | ------ |
 | [Debian / Kde Plasma / Adjustment](https://samwhelp.github.io/debian-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/debian-kde-plasma-adjustment) |
 | [Debian / Kde Plasma / Note](https://samwhelp.github.io/note-about-debian-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-debian-kde-plasma) |
-| [Ubuntu / Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
-| [Ubuntu / Note](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Debian / Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
+| [Debian / Note](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |

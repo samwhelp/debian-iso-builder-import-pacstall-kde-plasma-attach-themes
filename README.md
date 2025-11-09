@@ -10,7 +10,7 @@
 | `+` |
 | [debian-iso-builder-import-pacstall-kde-plasma-attach-themes](https://github.com/samwhelp/debian-iso-builder-import-pacstall-kde-plasma-attach-themes) |
 | `=` |
-| [debian-iso-builder-include-pacstall-kde-plasma-theme-vimix](https://github.com/samwhelp/debian-iso-builder-include-pacstall-kde-plasma-theme-vimix) |
+| [debian-iso-builder-include-pacstall-kde-plasma-attach-themes](https://github.com/samwhelp/debian-iso-builder-include-pacstall-kde-plasma-attach-themes) |
 
 
 
